@@ -6,7 +6,7 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "ejs": "^2.6.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "expressjs": "^1.0.1",
     "iso8601-duration": "^1.2.0",
     "mongodb": "^3.2.6",
